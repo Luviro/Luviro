@@ -1,7 +1,7 @@
 ## *About Me*
 + Name: Luviro
 + Hobbies: Tech Stuff, Linux Ricing, Coding
-+ Interested in: flutter
++ Interested in: flutter/dart
 + **I use Arch btw**
 
   
