@@ -1,10 +1,10 @@
 ## *About Me*
 + Name: Luviro
 + Hobbies: Tech Stuff, Linux Ricing, Coding, Gaming
-+ Interested in: flutter/dart
++ Interested in: flutter/dart, lua
 + **I use Arch btw**
 
-  
+
 ## *Experience*
 ![Python](https://img.shields.io/badge/python-333333?style=for-the-badge&logo=python)
 ![Bash Script](https://img.shields.io/badge/bash_script-333333?style=for-the-badge&logo=gnu-bash)
